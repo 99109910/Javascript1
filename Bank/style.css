@@ -1,0 +1,43 @@
+body{
+    background-color: darkslateblue;
+}
+
+.row{
+    height: 100vh;
+}
+
+.col-8 form input{
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+}
+
+input::placeholder{
+    text-align: center;
+}
+
+#kytBtn{
+    width: 60%;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+.anarow{
+    height: 60vh;
+}
+
+#bakiye , #info, #karsilama{
+    color: white;
+}
+
+#cekinp{
+    display: none;
+}
+
+#cek{
+    display: none;
+}
+
+#geribtn, #ibaninp, #gonder{
+    display: none;
+}
