@@ -113,7 +113,7 @@ function deleteItem(e) {
 }
 
 
-// Tüm Elemanları Silmek
+// deleting all items
 
 function deleteAllItems(e) {
 
